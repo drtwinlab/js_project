@@ -25,7 +25,7 @@
 }
 
 .header {
-  background-color: #393f4d;
+  background-color: #a1b1d4;
   grid-area: header;
   display: grid;
   grid-template-columns: 1fr 4fr;
